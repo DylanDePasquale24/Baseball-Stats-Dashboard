@@ -1,7 +1,7 @@
-# Player Stats Dashboard
+# Baseball Stats Dashboard
 
 ## Overview
-The Player Stats Dashboard is a full-stack application that processes, stores, and visualizes baseball player statistics. It features an ETL pipeline, a Django REST API, and a React frontend that allows users to search for player statistics and view their performance over multiple years.
+The Baseball Stats Dashboard is a full-stack application that processes, stores, and visualizes baseball player statistics. It features an ETL pipeline, a Django REST API, and a React frontend that allows users to search for player statistics and view their performance over multiple years.
 
 ## Features
 - **ETL Pipeline:** A Python script extracts player data from a JSON file, transforms it, and loads it into a SQLite database.
